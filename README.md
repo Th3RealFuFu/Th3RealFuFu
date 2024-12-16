@@ -2,9 +2,9 @@
 
 » 🔭 I’m currently working on: **Nothing**
 
-» 🌱 I’m currently learning: **Paper**
+» 🌱 I’m currently learning: **Paper-API**
 
-» 🤔 I’m looking for help with: **Paper**
+» 🤔 I’m looking for help with: **Paper-API**
 
 » 📫 How to reach me: Discord: **therealfufu**
 
